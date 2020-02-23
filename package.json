@@ -1,0 +1,17 @@
+{
+  "name": "itunes-artwork-downloader",
+  "version": "1.0.0",
+  "description": "iTunes Artwork Downloader",
+  "main": "src/download.js",
+  "dependencies": {
+    "ajax-request": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin" : "src/download.js",
+  "keywords": ["itunes", "artwork", "cover", "download", "music", "song"],
+  "author": "",
+  "license": "GPLv3"
+}
